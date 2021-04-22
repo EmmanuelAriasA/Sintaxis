@@ -1,0 +1,13 @@
+C:\Users\nando\source\repos\Sintaxis2\Sintaxis2\bin\Debug\netcoreapp3.1\Sintaxis2.exe
+C:\Users\nando\source\repos\Sintaxis2\Sintaxis2\bin\Debug\netcoreapp3.1\Sintaxis2.deps.json
+C:\Users\nando\source\repos\Sintaxis2\Sintaxis2\bin\Debug\netcoreapp3.1\Sintaxis2.runtimeconfig.json
+C:\Users\nando\source\repos\Sintaxis2\Sintaxis2\bin\Debug\netcoreapp3.1\Sintaxis2.runtimeconfig.dev.json
+C:\Users\nando\source\repos\Sintaxis2\Sintaxis2\bin\Debug\netcoreapp3.1\Sintaxis2.dll
+C:\Users\nando\source\repos\Sintaxis2\Sintaxis2\bin\Debug\netcoreapp3.1\Sintaxis2.pdb
+C:\Users\nando\source\repos\Sintaxis2\Sintaxis2\obj\Debug\netcoreapp3.1\Sintaxis2.AssemblyInfoInputs.cache
+C:\Users\nando\source\repos\Sintaxis2\Sintaxis2\obj\Debug\netcoreapp3.1\Sintaxis2.AssemblyInfo.cs
+C:\Users\nando\source\repos\Sintaxis2\Sintaxis2\obj\Debug\netcoreapp3.1\Sintaxis2.csproj.CoreCompileInputs.cache
+C:\Users\nando\source\repos\Sintaxis2\Sintaxis2\obj\Debug\netcoreapp3.1\Sintaxis2.dll
+C:\Users\nando\source\repos\Sintaxis2\Sintaxis2\obj\Debug\netcoreapp3.1\Sintaxis2.pdb
+C:\Users\nando\source\repos\Sintaxis2\Sintaxis2\obj\Debug\netcoreapp3.1\Sintaxis2.genruntimeconfig.cache
+C:\Users\nando\source\repos\Sintaxis2\Sintaxis2\obj\Debug\netcoreapp3.1\Sintaxis2.csprojAssemblyReference.cache
