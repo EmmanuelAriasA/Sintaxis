@@ -1,4 +1,4 @@
-﻿using System;
+using System;
 using System.Collections.Generic;
 using System.Text;
 using System.IO;
@@ -60,18 +60,18 @@ namespace Sintaxis3
         {
             linea = caracter = 1;
 
-            Console.WriteLine("Compilando prueba.txt");
+            Console.WriteLine("Compilando prueba.cpp");
             Console.WriteLine("Iniciando analisis lexico");
 
-            if (File.Exists("C:\\Archivos\\prueba.txt"))
+            if (File.Exists("C:\\Archivos\\prueba.cpp"))
             {
-                archivo = new StreamReader("C:\\Archivos\\prueba.txt");
+                archivo = new StreamReader("C:\\Archivos\\prueba.cpp");
                 bitacora = new StreamWriter("C:\\Archivos\\prueba.log");
                 bitacora.AutoFlush = true;
 
                 DateTime fecha = DateTime.Now;
 
-                bitacora.WriteLine("Archivo: prueba.txt");
+                bitacora.WriteLine("Archivo: prueba.cpp");
                 bitacora.WriteLine("Directorio: C:\\Archivos");
                 bitacora.WriteLine("Fecha: " + fecha.ToString("D") + ", Hora: " + fecha.ToString("t"));
             }
